@@ -1,4 +1,5 @@
+# config.yml - Using KNIME's Python
 org.community.html.html_table_reader:
   src: C:/knime-html-table-reader/src
-  python_executable: C:/Python311/python.exe  # Your local Python path
+  conda_env_path: C:/Users/PKCHAUHANSA/AppData/Local/Programs/KNIME/plugins/org.knime.python3.envconfigs.CondaEnvironmentPropagation/envs/knime_py_env
   debug_mode: true
