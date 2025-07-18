@@ -1,0 +1,9 @@
+name: html_table_reader  # Changed from html_xls_reader
+author: Your Name
+group_id: org.community.html  # This should match the error path
+extension_module: extension
+description: HTML Table Reader
+long_description: Read HTML tables from files with .xls extension
+version: 1.0.0
+vendor: Your Organization
+license_file: LICENSE.TXT
