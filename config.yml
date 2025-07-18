@@ -1,0 +1,4 @@
+org.community.html.html_table_reader:
+  src: C:/knime-html-table-reader/src
+  python_executable: C:/Python311/python.exe  # Your local Python path
+  debug_mode: true
